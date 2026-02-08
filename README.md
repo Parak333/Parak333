@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on being a Data Scientist/AI Engineer<br>👯 I’m looking to collaborate on amazing ideas and projects<br>🤝 I’m looking for help with automation and build projects in an efficient way<br>🌱 I’m currently learning Cloud technologies like AWS and Azure<br>💬 Ask me about my experience, pivot from working in finance to tech back again<br>⚡ Fun fact is that I am a musician have my Spotify and YouTube page too :)
+🔭 I’m currently working on being a Data Analyst<br>👯 I’m looking to collaborate on amazing ideas and projects<br>🤝 I’m looking for help with automation and build projects in an efficient way<br>🌱 I’m currently learning Cloud technologies like AWS and Azure<br>💬 Ask me about my experience, pivot from working in finance to tech back again<br>⚡ Fun fact is that I am a musician have my Spotify and YouTube page too :)
 
 
 ## 🌐 Socials:
