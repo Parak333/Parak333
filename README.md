@@ -6,7 +6,7 @@
 🌱 Currently learning forecasting and credit-risk modeling in Python, and building small public projects as I go<br>
 🤝 Open to roles in payments and fintech operations, business or data analytics, and implementation<br>
 💬 Ask me about moving from software engineering into finance and payments<br>
-⚡ Fun fact: I'm a musician. [Listen here](ADD-YOUR-MUSIC-LINK)
+⚡ Fun fact: I'm a musician. [Listen here](https://www.youtube.com/@ParakDesai)
 
 ## 🌐 Connect
 
