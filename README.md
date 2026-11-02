@@ -20,7 +20,7 @@
 **H-1B Sponsor Checker** (AI Agents Hackathon, Kiro × TinyFish)
 A multi-agent web app that tells international students in under 10 seconds whether a company sponsors H-1B visas and is E-Verified. I led a team of three.
 
-👉 [Repository](ADD-HACKATHON-REPO-LINK) · [Demo post](ADD-LINKEDIN-POST-LINK)
+👉 [Repository](https://github.com/Parak333/SponsorEasy) · [Demo post](https://www.linkedin.com/feed/update/urn:li:activity:7441530637926354944/)
 
 ---
 
