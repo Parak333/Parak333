@@ -1,19 +1,61 @@
-# 💫 About Me:
-🔭 I’m currently working on being a Financial Data Analyst<br>👯 I’m looking to collaborate on amazing ideas and projects<br>🤝 I’m looking for help with automation and build projects in an efficient way<br>🌱 I’m currently learning Cloud technologies like AWS and Azure<br>💬 Ask me about my experience, pivot from Software Engineer to Finance<br>⚡ Fun fact is that I am a musician have my Spotify and YouTube page too :)
+# 💫 About Me
 
+🔭 Payments Operations Specialist at **Payabli**, onboarding merchants and building AI agents that keep applications from stalling<br>
+🏦 Previously at **Goldman Sachs, Morgan Stanley and EY** (trade operations, reconciliation, data and technology risk)<br>
+🎓 MS Business Analytics, University of Rochester (Simon) · B.Tech Computer Engineering<br>
+🌱 Currently learning forecasting and credit-risk modeling in Python, and building small public projects as I go<br>
+🤝 Open to roles in payments and fintech operations, business or data analytics, and implementation<br>
+💬 Ask me about moving from software engineering into finance and payments<br>
+⚡ Fun fact: I'm a musician. [Listen here](ADD-YOUR-MUSIC-LINK)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parakdesai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/parakdesai) 
+## 🌐 Connect
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=parak333&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=parak333&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parak333&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parak333&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parakdesai)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parakdesai@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=parak333&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 Featured Project
+
+**H-1B Sponsor Checker** (AI Agents Hackathon, Kiro × TinyFish)
+A multi-agent web app that tells international students in under 10 seconds whether a company sponsors H-1B visas and is E-Verified. I led a team of three.
+
+👉 [Repository](ADD-HACKATHON-REPO-LINK) · [Demo post](ADD-LINKEDIN-POST-LINK)
+
+---
+
+## 🗺️ Learning Roadmap (updated as I go)
+
+| Project | Skills | Status |
+|---|---|---|
+| Payments revenue forecast | Python, pandas, time-series forecasting | 🔜 Planned |
+| Loan default and approval model | Logistic regression, gradient boosting, model evaluation | 🔜 Planned |
+| Revenue-cycle monitoring dashboard | SQL, KPIs, anomaly alerts | 🔜 Planned |
+| SQL practice | LeetCode SQL 50 | 🔄 In progress |
+
+Every project gets its own repo with a README covering the business question, data, method, result and how to run it.
+
+---
+
+## 💻 Tools
+
+**Day to day**<br>
+![Alteryx](https://img.shields.io/badge/Alteryx-Core%20Designer%20Certified-0078C0?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**AI**<br>
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Copilot](https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-AI%20IDE-7C3AED?style=for-the-badge)
+
+**Refreshing**<br>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+*Open to connecting with anyone working at the intersection of AI, payments and operations.*
